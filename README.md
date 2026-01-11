@@ -1,4 +1,4 @@
-## Hello, I'm Scott (@artisdoingstuff)
+## Hello, I'm Scott (@artdoesstuff)
 
 I am your average developer with a focus on game development and systems programming.
 
