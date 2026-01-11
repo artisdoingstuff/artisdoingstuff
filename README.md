@@ -1,6 +1,6 @@
 ## Hello, I'm Scott (@artisdoingstuff)
 
-I am your average developer with a focus on **game development** and **systems programming**.
+I am your average developer with a focus on game development and systems programming.
 
 ### Stack
 - **Main:** C++, Python
@@ -8,7 +8,7 @@ I am your average developer with a focus on **game development** and **systems p
 
 ### Current Projects
 - `[Active]` **[Void.INC](https://github.com/artisdoingstuff/Void.INC)**
-    - _An incremental game built with C++ & SFML 3.0.0._
+    - _An incremental game made with C++ & SFML 3.0.0._
 
 ### Future Projects
 - `[Concept]` **Collapsar:** Space horror
