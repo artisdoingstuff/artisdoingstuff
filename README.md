@@ -4,7 +4,7 @@ I am your average developer with a focus on game development and systems program
 
 ### Stack
 - **Main:** C++, Python
-- **Extra:** C#, MySQL, SQLite, SFML
+- **Extra:** C#, SQL, SFML
 
 ### Current Projects
 - `[Active]` **[Void.INC](https://github.com/artdoesstuff/Void.INC)** v1.0.2
