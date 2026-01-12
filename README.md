@@ -7,7 +7,7 @@ I am your average developer with a focus on game development and systems program
 - **Extra:** C#, MySQL, SQLite, SFML
 
 ### Current Projects
-- `[Active]` **[Void.INC](https://github.com/artdoesstuff/Void.INC)** v1.0.1
+- `[Active]` **[Void.INC](https://github.com/artdoesstuff/Void.INC)** v1.0.2
     - _An incremental game built with C++ & SFML 3.0.0._
     - _Playable builds available in [releases](https://github.com/artdoesstuff/Void.INC/releases)._
 
