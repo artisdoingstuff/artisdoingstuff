@@ -17,5 +17,5 @@
 > - `[Planned]` **Void.TD:** Tower defence spin-off of Void.INC
 >
 > ### Extras
-> - `[Lore]` **[Messy Void Universe](https://docs.google.com/document/d/1wa7GJMd-CLkKVVGESJYbVKu8QDYZHxdH1hmS51cafoE/)**
+> - `[Timeline]` **[Messy Void Universe](https://docs.google.com/document/d/1wa7GJMd-CLkKVVGESJYbVKu8QDYZHxdH1hmS51cafoE/)**
 >   - _For the curious minds._
