@@ -12,9 +12,9 @@
 >     - _Playable builds available in [releases](https://github.com/artdoesstuff/Void.INC/releases)._
 >
 > ### Future Projects
-> - `[Concept]` **Collapsar:** Space horror
-> - `[Planned]` **No Name:** Psychological horror
-> - `[Planned]` **Void.TD:** Tower defence spin-off of Void.INC
+> - `[Concept]` **Collapsar: Act 1 - Space Exploration** : Space/existential horror
+> - `[Planned]` **No Name: Chapters 1 - 3** : Psychological horror
+> - `[Planned]` **Void.TD** : Tower defence spin-off of Void.INC
 >
 > ### Extras
 > - `[Timeline]` **[Messy Void Universe](https://docs.google.com/document/d/1wa7GJMd-CLkKVVGESJYbVKu8QDYZHxdH1hmS51cafoE/)**
