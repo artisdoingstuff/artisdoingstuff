@@ -1,6 +1,6 @@
 > ## Hello, I'm Scott (@artdoesstuff)
 >
-> I am your average developer with a focus on game development and systems programming.
+> I am your average developer with a focus on game development and systems programming who listens to Kasane Teto whilst deep in thought.
 >
 > ### Stack
 > - **Main:** C++, Python
