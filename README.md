@@ -7,7 +7,7 @@
 > - **Extra:** C#, SQL, SFML
 >
 > ### Current Projects
-> - `[Active]` **[Void.INC](https://github.com/artdoesstuff/Void.INC)** v1.0.8
+> - `[Active]` **[Void.INC](https://github.com/artdoesstuff/Void.INC)** v1.0.9
 >     - _An incremental game built with C++ & SFML 3.0.0._
 >     - _Playable builds available in [releases](https://github.com/artdoesstuff/Void.INC/releases)._
 >
