@@ -8,13 +8,17 @@
 >
 > ### Current Projects
 > - `[Active]` **[Void.INC](https://github.com/artdoesstuff/Void.INC)** v1.0.9
->     - _An incremental game built with C++ & SFML 3.0.0._
+>     - _An incremental game based in the Messy Void Universe, the place it all began._
+>     - _Built with C++ & SFML 3.0.0_
 >     - _Playable builds available in [releases](https://github.com/artdoesstuff/Void.INC/releases)._
+>
+> - `[Next]` **[No Name](https://github.com/messyvoidstudios/No-Name)** 0.0.0
+>     - _A psychological/survival horror game set after the events of Void.TD_
 >
 > ### Future Projects
 > - `[Concept]` **Collapsar: Act 1 - Space Exploration** : Space/existential horror
-> - `[Planned]` **No Name: Chapters 1 - 3** : Psychological horror
-> - `[Planned]` **Void.TD** : Tower defence spin-off of Void.INC
+> - `[Planned]` **Void.TD** : A tower defence spin-off
+>     - _The child company of Void.INC, set after Collapsar_
 >
 > ### Extras
 > - `[Timeline]` **[Messy Void Universe](https://docs.google.com/document/d/1wa7GJMd-CLkKVVGESJYbVKu8QDYZHxdH1hmS51cafoE/)**
