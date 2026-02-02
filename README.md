@@ -3,8 +3,8 @@
 > I am your average developer with a focus on game development and systems programming who listens to Kasane Teto whilst deep in thought.
 >
 > ### Stack
-> - **Main:** C++, Python
-> - **Extra:** C#, SQL, SFML
+> - **Main:** C++, SFML
+> - **Extra:** C#, SQL, Python
 >
 > ### Current Projects
 > - `[Paused]` **[Void.INC](https://github.com/artdoesstuff/Void.INC)** v1.0.10 _(Phase 1 complete)_
