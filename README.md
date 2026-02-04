@@ -4,7 +4,7 @@
 >
 > ### Stack
 > - **Main:** C++, SFML
-> - **Extra:** C#, SQL, Python
+> - **Extra:** C#, Python, SQL
 >
 > ### Current Projects
 > - `[Paused]` **[Void.INC](https://github.com/artdoesstuff/Void.INC)** v1.0.10 _(Phase 1 complete)_
@@ -12,7 +12,7 @@
 >     - _Built with C++ & SFML 3.0.0_
 >     - _Playable builds available in [releases](https://github.com/artdoesstuff/Void.INC/releases)._
 >
-> - `[Active]` **[No Name](https://github.com/messyvoidstudios/No-Name)** 0.0.0
+> - `[Active]` **[No Name](https://github.com/messyvoidstudios/No-Name)** 0.0.6
 >     - _A psychological/survival horror game set after the events of Void.TD_
 >
 > ### Future Projects
