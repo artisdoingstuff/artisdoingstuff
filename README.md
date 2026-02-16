@@ -7,12 +7,12 @@
 > - **Extra:** C#, Python, SQL
 >
 > ### Current Projects
-> - `[Paused]` **[Void.INC](https://github.com/artdoesstuff/Void.INC)** v1.0.10 _(Phase 1 complete)_
+> - `[Active]` **[Void.INC](https://github.com/artdoesstuff/Void.INC)** v1.0.10 _(Phase 1 complete)_
 >     - _An incremental game based in the Messy Void Universe, the place it all began._
 >     - _Built with C++ & SFML 3.0.0_
 >     - _Playable builds available in [releases](https://github.com/artdoesstuff/Void.INC/releases)._
 >
-> - `[Active]` **[No Name](https://github.com/messyvoidstudios/No-Name)** 0.0.6
+> - `[Paused]` **[No Name](https://github.com/messyvoidstudios/No-Name)** 0.1.5
 >     - _A psychological/survival horror game set after the events of Void.TD_
 >
 > ### Future Projects
