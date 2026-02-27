@@ -7,7 +7,7 @@
 > - **Extra:** C#, Python, SQL
 >
 > ### Current Projects
-> - `[Active]` **[Void.INC](https://github.com/artdoesstuff/Void.INC)** v1.1.0 _(Phase 2 begins.)_
+> - `[Active]` **[Void.INC](https://github.com/artdoesstuff/Void.INC)** v1.1.1 _(Phase 2 begins.)_
 >     - _An incremental game based in the Messy Void Universe, where it all began._
 >     - _Built with C++ & SFML 3.0.0_
 >     - _Playable builds available in [releases](https://github.com/artdoesstuff/Void.INC/releases)._
